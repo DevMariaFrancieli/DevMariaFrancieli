@@ -12,5 +12,5 @@
 
 [![Blog](https://img.shields.io/website?label=devmariafrancieli.github.io/portfolio&style=for-the-badge&url=https://devmariafrancieli.github.io/portfolio/)](https://devmariafrancieli.github.io/portfolio/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mariafrancieli)
 
-Acabei de me formar em Análise e Desenvolvimento de Sistemas. Sempre fui apaixonada por tecnologia e computadores. 
+Sou apaixonada por tecnologia e computadores. 
 
